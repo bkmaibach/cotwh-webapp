@@ -1,0 +1,24 @@
+{
+  "name": "cotwh-webapp",
+  "version": "1.0.0",
+  "description": "Church of the Well Hatted Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkmaibach/cotwh-webapp.git"
+  },
+  "keywords": [
+    "hat",
+    "church",
+    "website"
+  ],
+  "author": "BKMaibach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkmaibach/cotwh-webapp/issues"
+  },
+  "homepage": "https://github.com/bkmaibach/cotwh-webapp#readme"
+}

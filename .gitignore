@@ -59,3 +59,19 @@ typings/
 
 # next.js build output
 .next
+
+# Scripts setting environment variables
+scripts/start_development.sh
+scripts/start_testing.sh
+scripts/start_production.sh
+
+# Server ssl keys
+https/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# zip files
+*.zip
