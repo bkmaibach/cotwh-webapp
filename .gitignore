@@ -75,3 +75,6 @@ https/
 
 # zip files
 *.zip
+
+# Experiments
+html-playground/
